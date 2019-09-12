@@ -5,4 +5,5 @@ public class sdfwefsfwe {
 
     private String name;
     private int age;
+    private Double  salaly;
 }
