@@ -3,6 +3,6 @@
  */
 public class sdfwefsfwe {
 
-        private String name;
-
+    private String name;
+    private int age;
 }
